@@ -1,0 +1,24 @@
+{
+    "machine": "dark_matter_collector",
+    "registryName": "dark_matter_collector_dark_matter",
+    "recipeTime": 1000,
+    "requirements": [
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1000000
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "projecte:item.pe_matter@0",
+            "amount": 1
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "appliedenergistics2:material@48",
+            "amount": 2
+        }
+    ]
+}
