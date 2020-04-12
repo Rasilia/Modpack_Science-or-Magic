@@ -23,6 +23,7 @@ recipes.remove(<avaritia:extreme_crafting_table>);
 //移除无尽催化剂
 mods.avaritia.ExtremeCrafting.remove(<avaritia:resource:5>);
 
+
 //Add
 //添加终望珍珠
 mods.extendedcrafting.TableCrafting.addShaped(<avaritia:endest_pearl>,[
