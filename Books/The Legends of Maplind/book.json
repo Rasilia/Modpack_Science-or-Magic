@@ -1,0 +1,11 @@
+{
+    "name":"The Legends of Maplind(English)",
+    "landing_text":"The maple is not a common maple,and the wind is not a general wind.<br>This is a prosaic story,but it is a precious and profound memory for them.",
+    "i18n":true,
+    "creative_tab":"skyless",
+    "show_progress":false,
+    "book_texture":"patchouli:textures/gui/book_blue.png",
+    "model":"patchouli:book_blue",
+    "show_toasts":false,
+    "version":"Editing"
+}

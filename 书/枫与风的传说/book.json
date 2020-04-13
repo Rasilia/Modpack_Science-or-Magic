@@ -1,0 +1,11 @@
+{
+    "name":"枫与风的传说（中文）",
+    "landing_text":"枫不是普通的枫，风亦不是寻常的风。<br>这是平淡无奇的故事，对他们来说却是珍贵而深刻的记忆。",
+    "i18n":true,
+    "creative_tab":"skyless",
+    "show_progress":false,
+    "book_texture":"patchouli:textures/gui/book_blue.png",
+    "model":"patchouli:book_blue",
+    "show_toasts":false,
+    "version":"编辑中"
+}
