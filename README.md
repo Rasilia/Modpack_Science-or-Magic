@@ -14,11 +14,11 @@ P.S.魔改进程在本文档最下方
 
 This GitHub repository is used to store files written in Science or Magic. If you are interested, you can have a look.
 
-If there is any problem with this modpack, please feedback to me in Issue.
+If there is any problem with this modpack, please feedback to me in Issues.
 
-My English is not very good. If there is any problem with the Chinese-English translation in this modpack, you are also welcome to feedback to me in Issue (Of course, if you are willing to help me translate Chinese to English, I'll thank you very much!).
+My English is not very good. If there is any problem with the Chinese-English translation in this modpack, you are also welcome to feedback to me in Issues (Of course, if you are willing to help me translate Chinese to English, I'll thank you very much!).
 
-P. S. The processes are at the bottom of this document.
+P.S.The processes are at the bottom of this document.
 
 
 
