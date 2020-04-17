@@ -4,7 +4,7 @@
 
 如果整合包存在问题，欢迎在Issuse中提出。
 
-冬风英语不是很好，如果整合包内的中译英有问题，同样欢迎在Issuse中提出（当然，如果你愿意帮助冬风翻译，那自然更好！）。
+冬风英语不是很好，如果整合包内的中译英有问题，同样欢迎在Issuse中提出（当然，如果你愿意帮助我翻译，我会非常感谢！）。
 
 P.S.魔改进程在本文档最下方
 
@@ -12,11 +12,11 @@ P.S.魔改进程在本文档最下方
 
 ## English
 
-This GitHub repository is used to store files written in SoM. If you are interested, you can have a look.
+This GitHub repository is used to store files written in Science or Magic. If you are interested, you can have a look.
 
 If there is any problem with this modpack, please feedback to me in Issue.
 
-My English is not very good. If there is any problem with the Chinese-English translation in this modpack, you are also welcome to feedback to me in Issue (Of course, if you are willing to help me translate Chinese to English, it will be better!).
+My English is not very good. If there is any problem with the Chinese-English translation in this modpack, you are also welcome to feedback to me in Issue (Of course, if you are willing to help me translate Chinese to English, I'll thank you very much!).
 
 P. S. The processes are at the bottom of this document.
 
